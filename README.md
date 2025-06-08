@@ -1,6 +1,8 @@
 # ⚔️ Create node features from Spectral Graphs
 
 
+This repository contains zinc_parser.py when running `python zinc_parser.py' it will parse the ZINC dataset and run the equiEPNN model on each graph with the right preprocessing. Our goal is to see whether we can integrate this model into MPNNs to use the node features and plug them into the MPNNs (with and without learning.) 
+
 
 Based on *Geometric GNN Dojo* is a pedagogical resource for beginners and experts to explore the design space of **Graph Neural Networks for geometric graphs**.
 
